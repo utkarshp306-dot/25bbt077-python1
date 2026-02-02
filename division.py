@@ -1,0 +1,7 @@
+def divide():
+    a=int(input("Enter a no:"))
+    b=int(input("Enter a no:"))
+    c=a//b
+    print("division of a and b is",c)
+
+divide()
